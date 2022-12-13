@@ -1,1 +1,1 @@
-# shop-js
+Company organizer
